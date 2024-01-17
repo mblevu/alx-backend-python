@@ -3,9 +3,6 @@
 import asyncio
 import random
 from typing import List
-import asyncio
-import random
-from typing import List
 
 
 async def task_wait_random(max_delay: int) -> int:
