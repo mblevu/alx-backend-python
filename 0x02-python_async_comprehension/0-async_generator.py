@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""coroutine that takes no arugmensts"""
+"""a coroutine that takes no arugmensts"""
 import asyncio
 import random
 
